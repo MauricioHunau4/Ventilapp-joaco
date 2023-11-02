@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "HIBA VentilApp ",
+    "slug": "Calc",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/Robot.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Robot.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#081108"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Robot.png",
+        "backgroundColor": "#081108"
+      },
+      "package": "com.mauriciohunau4.Calc"
+    },
+    "web": {
+      "favicon": "./assets/Robot.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ea3e331-94d0-4a18-8d77-1c7a49ca589c"
+      }
+    }
+  }
+}
